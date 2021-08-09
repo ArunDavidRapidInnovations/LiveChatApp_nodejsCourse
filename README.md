@@ -1,1 +1,1 @@
-# Real Time Chat Application Using Socket.io
+# Real Time Chat Application Using sockets.io
